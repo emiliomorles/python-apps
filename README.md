@@ -1,9 +1,9 @@
-# 🎮 Mis Apps en Python
+# ⚙️ Mis Apps en Python
 
 Repositorio dedicado exclusivamente a **aplicaciones** desarrolladas en Python.  
 Aquí iré subiendo todas las apps que vaya creando mientras practico y mejoro mis habilidades de programación.
 
-## 🎲 Apps Disponibles
+## ✅ Apps Disponibles
 
 - **001_alturapromedio** → Calculadora de altura promedio de un grupo de personas (2023)
 - **002_highest_and_lowest_score** → Encuentra la calificación más alta y más baja de una lista de estudiantes (2023)
