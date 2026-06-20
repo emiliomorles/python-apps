@@ -1,22 +1,27 @@
-# ⚙️ Mis Apps en Python
+# ⚙️ My Python Apps
 
-Repositorio dedicado exclusivamente a **aplicaciones** desarrolladas en Python.  
-Aquí iré subiendo todas las apps que vaya creando mientras practico y mejoro mis habilidades de programación.
+Repository dedicated exclusively to **applications** developed in Python.  
+Here I will upload all the apps I create while practicing and improving my programming skills.
 
-## ✅ Apps Disponibles
+## ✅ Available Apps
 
 - **001_alturapromedio** → Calculadora de altura promedio de un grupo de personas (2023)
-- **002_highest_and_lowest_score** → Encuentra la calificación más alta y más baja de una lista de estudiantes (2023)
+- **002_highest_and_lowest_score** → Finds the highest and lowest grade from a list of students (2023)
 - **003_calculadora_de_masa_corporal** → Calculadora de Índice de Masa Corporal (IMC) con clasificación de peso (2023)
-- **004_leap-year-indicator** → Verificador de años bisiestos (Leap Year) (2023)
-- **005_tip_calculator** → Calculadora de propinas con división entre personas (2023)
+- **004_leap-year-indicator** → Leap year checker (2023)
+- **005_tip_calculator** → Tip calculator with bill splitting (2023)
 - **006_ruleta_para_pagar_la_comida** → Ruleta para decidir quién paga la comida (2023)
-- **007_odd_or_even** → Juego "Par o Impar" contra la computadora (2023)
-- **008_blind-auction** → Subasta a ciegas (Blind Auction) (2023)
-- **009_caesar-cipher** → Cifrado y descifrado César (Caesar Cipher) (2023)
-- **010_app_tienda_de_pizza** → Simulador de tienda de pizzas con menú y facturación (2023)
+- **007_odd_or_even** → Odd or Even game against the computer (2023)
+- **008_blind-auction** → Blind auction simulator (2023)
+- **009_caesar-cipher** → Caesar cipher encoder and decoder (2023)
+- **010_app_tienda_de_pizza** → Simulador de tienda de pizza (2023)
+- **011_ideal-body-mass-calculator** → Ideal body mass and BMI calculator (2023)
+- **012_adding_up_all_even_numbers_from1to100** → Sum of all even numbers from 1 to 100 (2023)
+- **013_calculator** → Basic calculator with multiple operations (2023)
+- **014_safe_password_generator** → Secure random password generator (2023)
+- **015_pizza_store_app** → Advanced pizza store application (2023)
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies
 
-- **Lenguaje:** Python 3
-- **Enfoque:** Aprendizaje y práctica
+- **Language:** Python 3
+- **Focus:** Learning and practice
