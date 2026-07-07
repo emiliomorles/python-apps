@@ -6,6 +6,20 @@ Esta aplicación es una **herramienta de práctica** creada para ayudar a las pe
 
 ---
 
+**Archivo comprimido para instalar en windows.** 
+
+Debes descargar ambos archivos y descomprimirlos con Winrar.
+
+Instala la aplicación.
+
+Listo.
+
+Enlace parte 1 -> https://cryptpad.fr/file/#/2/file/D9PYJHTRG8HPkLWiMFR3jdoc/
+
+Enlace parte 2 -> https://cryptpad.fr/file/#/2/file/UCPSw9AWWE0KjbLXLPuZgz3e/
+
+---
+
 ### ⚠️ IMPORTANTE
 
 **Esta aplicación NO es oficial.**  
