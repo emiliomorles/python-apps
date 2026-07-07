@@ -4,6 +4,8 @@
 
 Esta aplicación es una **herramienta de práctica** creada para ayudar a las personas que están realizando el proceso de naturalización salvadoreña.
 
+## ![Sample Image](https://github.com/emiliomorles/python-apps/blob/main/030_prueba_naturalizacion_sv/images/app_test_sv.jpg) 
+
 ---
 
 **Archivo comprimido para instalar en windows.** 
