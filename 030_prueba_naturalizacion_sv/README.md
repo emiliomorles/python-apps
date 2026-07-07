@@ -41,6 +41,8 @@ Facilitar el estudio y aumentar la confianza de quienes están en proceso de nat
 
 **¡Éxito en tu proceso de naturalización!** 🇸🇻
 
+---
+
 Developer: @Emilio_Morles
 
 Year: 2026
