@@ -34,6 +34,7 @@ Here I will upload all the apps I create while practicing and improving my progr
 - **027_rain_alert** → Rain alert SMS notifier (2023)
 - **028_tesla_news** → Daily Tesla news email sender (2023)
 - **029_habit_tracker** → Habit tracker with Pixela API (2023)
+- **030_prueba_naturalizacion_sv** → Non-official practice app for El Salvador's naturalization knowledge test (2026)
 
 ## 🛠️ Technologies
 
