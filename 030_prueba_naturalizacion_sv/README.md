@@ -1,6 +1,6 @@
 # Quiz Naturalización El Salvador 🇸🇻
 
-- Versión 1.1 (Agosto 2026)
+- Versión 1.3 (Octubre 2026)
 
 **Simulador de examen de conocimientos generales para el proceso de naturalización en El Salvador.**
 
@@ -18,9 +18,9 @@ Instala la aplicación.
 
 Listo.
 
-Enlace parte 1 -> https://cryptpad.fr/file/#/2/file/CHlo9LUl5m8x700og0b9gK2L/
+Enlace parte 1 -> https://cryptpad.fr/file/#/2/file/Pc6Kt1PNHcwPl0PZxmfDofuW/
 
-Enlace parte 2 -> https://cryptpad.fr/file/#/2/file/KMSS4LoC5ItIP7l+J+ekfsoF/
+Enlace parte 2 -> https://cryptpad.fr/file/#/2/file/OZjWSLFds4dF-76UffK2qVRF/
 
 ---
 
